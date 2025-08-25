@@ -1,4 +1,4 @@
 initial page
 
 
-[news sources](news_sources)
+[news sources](docs/news_sources.md)
